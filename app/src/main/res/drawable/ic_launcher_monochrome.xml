@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The radio in one ink, for themed icons: cabinet outline, dial strip and eye. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M30,32 L78,32 A6,6 0 0 1 84,38 L84,74 A6,6 0 0 1 78,80 L30,80 A6,6 0 0 1 24,74 L24,38 A6,6 0 0 1 30,32 Z M31,42 L77,42 L77,58 L31,58 Z M31,61 L77,61 L77,69 L31,69 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,50 L56.4,45.1 A5,5 0 1 1 51.6,45.1 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,61 L59.6,61 L59.6,69 L58,69 Z" />
+</vector>

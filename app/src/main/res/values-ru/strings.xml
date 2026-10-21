@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Длинная волна</string>
+    <string name="back">Назад</string>
+    <string name="log">Журнал эфира</string>
+    <string name="settings">Настройки</string>
+
+    <string name="between_stations">Между станциями</string>
+    <string name="between_about">Только мягкий шорох ночного эфира. Покрутите ручку, чтобы поймать станцию.</string>
+    <string name="kind_static">эфир</string>
+    <string name="kind_sound">звук</string>
+    <string name="kind_programme">передача</string>
+    <string name="kind_rare">редкая станция</string>
+    <string name="dial_description">Шкала длинных волн. Проведите в сторону, чтобы настроиться.</string>
+    <string name="knob_power">СЕТЬ</string>
+    <string name="knob_tuning">НАСТРОЙКА</string>
+    <string name="station_prev">Предыдущая станция</string>
+    <string name="station_next">Следующая станция</string>
+    <string name="switch_on">Включить</string>
+    <string name="switch_off">Выключить</string>
+    <string name="tap_to_wake">коснитесь, чтобы зажечь лампы</string>
+
+    <string name="off_air">Конец эфира через, минут</string>
+    <string name="timer_none">Играет, пока не выключите</string>
+    <string name="timer_minutes">Уйдёт из эфира через %d мин после включения</string>
+    <string name="off_air_at">конец эфира в %s</string>
+    <string name="going_off_air">уходит из эфира</string>
+    <string name="signing_off">Уходим из эфира… коснитесь экрана, чтобы послушать ещё</string>
+    <string name="plus_15">+15 мин</string>
+    <string name="channel_radio">Радио в эфире</string>
+
+    <string name="qsl_to">РАДИОСТАНЦИИ</string>
+    <string name="qsl_date">ДАТА</string>
+    <string name="qsl_time">ВРЕМЯ</string>
+    <string name="qsl_minutes">МИН</string>
+    <string name="qsl_note">Подтверждаем приём. Спокойной ночи — 73!</string>
+
+    <string name="morning_kicker">Ночью пришла карточка</string>
+    <string name="morning_title">Доброе утро</string>
+    <string name="morning_question">Быстро ли вы уснули?</string>
+    <string name="answer_fast">Быстро</string>
+    <string name="answer_slow">Не сразу</string>
+    <string name="answer_dont_know">Не помню</string>
+
+    <string name="your_wave">Ваша волна</string>
+    <string name="your_wave_empty">Ответьте на несколько утренних карточек, и здесь появятся станции, под которые вы засыпаете быстрее всего.</string>
+    <string name="wave_line">быстро — %1$d из %2$d ночей</string>
+    <string name="album">QSL-карточки</string>
+    <string name="nights">Ночи</string>
+    <string name="nights_empty">Когда таймер выключит радио, станция пришлёт сюда карточку. Поставьте таймер, и пусть играет.</string>
+    <string name="rated_fast">быстро</string>
+    <string name="rated_slow">не сразу</string>
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минуты</item>
+    </plurals>
+
+    <string name="callsign">Ваш позывной</string>
+    <string name="callsign_sub">Радиолюбители зовут друг друга по позывным. Ваш будет на каждой QSL-карточке.</string>
+    <string name="sign_off">Уход из эфира, минут</string>
+    <string name="sign_off_sub">Сколько станция будет уплывать со шкалы в шум и затихать в конце таймера.</string>
+    <string name="air">Эфир между станциями</string>
+    <string name="air_quiet">Тихо</string>
+    <string name="air_soft">Мягко</string>
+    <string name="air_full">Полностью</string>
+    <string name="on_air">В эфире</string>
+    <string name="fading">Дальний приём</string>
+    <string name="fading_sub">Станция медленно то нарастает, то тонет, как далёкие длинные волны ночью.</string>
+    <string name="good_night">Диктор желает спокойной ночи</string>
+    <string name="good_night_sub">Тихое слово, когда радио уходит из эфира.</string>
+    <string name="haptics">Щелчки под пальцем</string>
+    <string name="haptics_sub">Настраивайтесь с закрытыми глазами: щелчок на каждый килогерц, толчок на станции.</string>
+    <string name="language">Язык</string>
+    <string name="system">Системный</string>
+    <string name="lang_ru">Русский</string>
+    <string name="lang_en">English</string>
+    <string name="about">О приложении</string>
+    <string name="about_text">«Длинная волна» — ламповый приёмник, под который засыпают. Его станции передают дождь, море, ночной поезд и печку, а ещё говорящие передачи, построенные на способах успокоить ум: морскую сводку для выдуманных морей, перекличку тела, лото случайных слов, дыхание 4-7-8, медленную опись склада, обратный отсчёт. Без аккаунта, рекламы и интернета: всё остаётся на телефоне. Это не лечение.</string>
+    <string name="credits">Звуки: записи с Freesound и SoundBible в обработке проекта Blanket (CC0, CC BY, общественное достояние). Голоса: нейросетевые голоса Silero и Kokoro. Шрифты: Prata, PT Mono, Manrope, Caveat (OFL).</string>
+
+    <string name="welcome_lead">Ламповый приёмник, под который засыпают</string>
+    <string name="welcome_1">Покрутите ручку и поймайте станцию: дождь над Дождевском, море под маяком, ночной поезд, печка.</string>
+    <string name="welcome_2">Некоторые станции говорят — медленно и нарочно скучно: сводка для морей, которых нет на картах, перекличка тела, лото случайных слов, дыхание под метроном.</string>
+    <string name="welcome_3">Выберите, когда закончится эфир. В конце станция уплывёт со шкалы в шум, а шум затихнет.</string>
+    <string name="welcome_4">Утром станция пришлёт QSL-карточку. Редкие станции выходят в эфир только в иные ночи.</string>
+    <string name="welcome_go">Прогреть лампы</string>
+</resources>

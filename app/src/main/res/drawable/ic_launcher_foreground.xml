@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A small valve radio: speaker cloth, the green tuning eye, the lit amber dial with its needle, two knobs. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- cabinet -->
+    <path
+        android:fillColor="#7A4728"
+        android:pathData="M30,32 L78,32 A6,6 0 0 1 84,38 L84,74 A6,6 0 0 1 78,80 L30,80 A6,6 0 0 1 24,74 L24,38 A6,6 0 0 1 30,32 Z" />
+    <path
+        android:fillColor="#C9A45C"
+        android:pathData="M30,34 L78,34 A4,4 0 0 1 82,38 L82,39 L26,39 L26,38 A4,4 0 0 1 30,34 Z" />
+
+    <!-- speaker cloth -->
+    <path
+        android:fillColor="#2C2420"
+        android:pathData="M31,42 L77,42 A2,2 0 0 1 79,44 L79,56 A2,2 0 0 1 77,58 L31,58 A2,2 0 0 1 29,56 L29,44 A2,2 0 0 1 31,42 Z" />
+
+    <!-- tuning eye -->
+    <path
+        android:fillColor="#0D2418"
+        android:pathData="M54,44.5 A5.5,5.5 0 1 1 53.99,44.5 Z" />
+    <path
+        android:fillColor="#79F2A6"
+        android:pathData="M54,50 L56.4,45.1 A5,5 0 1 1 51.6,45.1 Z" />
+
+    <!-- lit dial with needle -->
+    <path
+        android:fillColor="#F0C377"
+        android:pathData="M31,61 L77,61 A2,2 0 0 1 79,63 L79,67 A2,2 0 0 1 77,69 L31,69 A2,2 0 0 1 29,67 L29,63 A2,2 0 0 1 31,61 Z" />
+    <path
+        android:fillColor="#D2432F"
+        android:pathData="M58,60 L59.6,60 L59.6,70 L58,70 Z" />
+
+    <!-- knobs -->
+    <path
+        android:fillColor="#1A1310"
+        android:pathData="M36,71.5 A3.5,3.5 0 1 1 35.99,71.5 Z" />
+    <path
+        android:fillColor="#1A1310"
+        android:pathData="M72,71.5 A3.5,3.5 0 1 1 71.99,71.5 Z" />
+</vector>
