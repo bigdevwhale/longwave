@@ -1,5 +1,11 @@
 # Changelog
 
+<!--
+Telegram: end each version's section with a hidden block for the StillCraft chat. Start it with a
+line "<!-- tg", then 2-4 short lines in Russian for users (what is new, what is fixed), no markdown,
+then close it like any HTML comment. The release notes carry it, and the chat bot posts those lines.
+-->
+
 ## [1.0.0]
 
 - First release: a valve radio for falling asleep. A long-wave dial with 15 stations: nine sounds (rain, sea, night train, stove, crickets, harbour, stream, wind, brown noise) and six spoken programmes (Sea Forecast, Roll Call, Word Lottery, a 4-7-8 Metronome, Lighthouse Stores, Countdown). Static, a whistle off tune and long-wave fading between and on them.
