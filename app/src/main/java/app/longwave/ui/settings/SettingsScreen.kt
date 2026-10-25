@@ -42,6 +42,7 @@ import app.longwave.audio.Engine
 import app.longwave.container
 import app.longwave.data.Air
 import app.longwave.data.RadioSettings
+import app.longwave.ui.components.CommunityLinks
 import app.longwave.ui.components.Heading
 import app.longwave.ui.components.TopBar
 import app.longwave.ui.theme.LocalPalette
@@ -102,6 +103,9 @@ fun SettingsScreen(settings: RadioSettings, onBack: () -> Unit) {
             Choices(listOf("" to stringResource(R.string.system), "ru" to stringResource(R.string.lang_ru), "en" to stringResource(R.string.lang_en)), lang) { tag ->
                 AppCompatDelegate.setApplicationLocales(LocaleListCompat.forLanguageTags(tag))
             }
+
+            Heading(stringResource(R.string.community))
+            CommunityLinks()
 
             Heading(stringResource(R.string.about))
             Text(stringResource(R.string.about_text), style = type.body, color = p.muted)

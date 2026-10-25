@@ -86,4 +86,16 @@
     <string name="welcome_3">Выберите, когда закончится эфир. В конце станция уплывёт со шкалы в шум, а шум затихнет.</string>
     <string name="welcome_4">Утром станция пришлёт QSL-карточку. Редкие станции выходят в эфир только в иные ночи.</string>
     <string name="welcome_go">Прогреть лампы</string>
+
+    <!-- Community: the StillCraft bot on Telegram -->
+    <string name="community">Сообщество</string>
+    <string name="community_text">Приложение делается вместе с теми, кто им пользуется. Всё идёт через бота StillCraft в Telegram.</string>
+    <string name="community_bug">Сообщить о баге</string>
+    <string name="community_bug_sub">что сломалось и как повторить</string>
+    <string name="community_idea">Предложить идею</string>
+    <string name="community_idea_sub">функция, станция, передача</string>
+    <string name="community_follow">Подписаться на обновления</string>
+    <string name="community_follow_sub">бот напишет, когда выйдет версия</string>
+    <string name="community_chat">Чат StillCraft</string>
+    <string name="community_chat_sub">все приложения и люди</string>
 </resources>
